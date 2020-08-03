@@ -1,0 +1,15 @@
+appwiki.checkpoint.com
+blog.checkpoint.com
+careers.checkpoint.com
+certifications.checkpoint.com
+community.checkpoint.com
+help.checkpoint.com
+pages.checkpoint.com
+partnerlocator.checkpoint.com
+research.checkpoint.com
+resources.checkpoint.com
+supportcenter.checkpoint.com
+threatmap.checkpoint.com
+threatwiki.checkpoint.com
+us.checkpoint.com
+usercenter.checkpoint.com
