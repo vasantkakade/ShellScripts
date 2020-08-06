@@ -3,7 +3,7 @@ mkdir /opt/tomcat/
 groupadd tomcat
 useradd -g tomcat -d /opt/tomcat tomcat
 
-wget https://s3.amazonaws.com/tag-infra-source/apache-tomcat-8.5.28.tar.gz
+wget https://archive.apache.org/dist/tomcat/tomcat-8/v8.5.28/bin/apache-tomcat-8.5.28.tar.gz
 tar -xzvf apache-tomcat-8.5.28.tar.gz
 mv apache-tomcat-8.5.28/* /opt/tomcat/
 
